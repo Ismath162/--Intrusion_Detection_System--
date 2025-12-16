@@ -49,7 +49,7 @@ This will make GuardX a **proactive, AI-driven cybersecurity solution**.
 
 
 
-## 📜 License
+ 📜 License
 
 Educational/demo use. Built for hackathon prototype purposes only.  
 © 2025 Team GuardX
